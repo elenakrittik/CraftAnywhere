@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
-	"Version": 0,
-	"VersionName": "0.1.0",
-	"FriendlyName": "CraftAnywhere",
-	"Description": "Allows you to open and use your Hub's Craft Bench anywhere",
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Craft Anywhere",
+	"Description": "Allows you to use craft (almost) anywhere!",
 	"Category": "Modding",
 	"CreatedBy": "elenakrittik",
 	"CreatedByURL": "https://github.com/elenakrittik",
@@ -21,5 +21,5 @@
 			"SemVersion": "^3.6.0"
 		}
 	],
-	"SemVersion": "0.1.0"
+	"SemVersion": "1.0.0"
 }
